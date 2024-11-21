@@ -1,4 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+## NAME:MOHAMMED HAMZA M
+## REGISTRATION NUMBER:24900511
 
 **AIM:**
 
@@ -32,6 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+![BOOLEAN EXP CODE](https://github.com/user-attachments/assets/f8ef0482-5ef9-4649-85d2-727b88e96113)
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
@@ -39,12 +42,12 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![BOOLEAN EXP GATE](https://github.com/user-attachments/assets/485b3edb-b1a1-46b2-9a10-22101d01ff78)
 
 **Output:**
+![BOOLEAN EXP WAVEFORM](https://github.com/user-attachments/assets/d11c596b-2ce8-455c-b054-c0d28d8cb45b)
 
-**RTL**
 
-**Timing Diagram**
 
 **Result:**
 
